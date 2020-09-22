@@ -11,7 +11,7 @@ I am Arjun
  - Follow me on [Twitter](https://twitter.com/IAmArjunM) 🐦
  - Shoot Me at [Email](mailto:arjunnmanoj1995@gmail.com) 💌
 
-<a href="https://github.com/CraZyLegenD/Set-Of-Useful-Kotlin-Extensions-and-Helpers">
-    <img width="100%" align="centre" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=iamarjun&hide=[%22issues%22]&show_icons=true%22" />
+<a >
+    <img width="100%" align="centre" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=iamarjun&hide=[%22issues%22]&show_icons=true%22"/>
   </a>
 
