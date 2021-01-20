@@ -11,7 +11,5 @@ I am Arjun
  - Follow me on [Twitter](https://twitter.com/IAmArjunM) 🐦
  - Shoot Me at [Email](mailto:arjunnmanoj1995@gmail.com) 💌
 
-<a >
-    <img width="70%" align="centre" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=iamarjun&hide=[%22issues%22]&show_icons=true%22"/>
-  </a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamarjun)](https://github.com/anuraghazra/github-readme-stats)
 
