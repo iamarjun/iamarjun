@@ -11,5 +11,5 @@ I am Arjun
  - Follow me on [Twitter](https://twitter.com/IAmArjunM) 🐦
  - Shoot Me at [Email](mailto:arjunnmanoj1995@gmail.com) 💌
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamarjun)](https://github.com/anuraghazra/github-readme-stats)
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=iamarjun&count_private=true&show_icons=true&theme=great-gatsby)]
 
