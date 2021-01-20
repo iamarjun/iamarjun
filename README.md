@@ -11,13 +11,11 @@ I am Arjun
  - Follow me on [Twitter](https://twitter.com/IAmArjunM) 🐦
  - Shoot Me at [Email](mailto:arjunnmanoj1995@gmail.com) 💌
 
-[![Arjun's github stats]()]
-
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarjun&count_private=true&show_icons=true&theme=great-gatsby" alt="Arjun's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarjun&count_private=true&show_icons=true" alt="Arjun's github stats" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamarjun&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamarjun" />
 </a>
 
 
