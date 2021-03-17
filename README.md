@@ -14,8 +14,3 @@ I am Arjun
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarjun&count_private=true&show_icons=true" alt="Arjun's github stats" />
 </a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamarjun" />
-</a>
-
-
