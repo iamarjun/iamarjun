@@ -2,8 +2,8 @@
 
 I am Arjun
 
-- Android by day.
-- Flutter by night.
+- Imperative by day.
+- Declarative by night.
 
 ### 📫 How to reach me?
 
