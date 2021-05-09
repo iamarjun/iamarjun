@@ -12,5 +12,5 @@ I am Arjun
  - Shoot Me at [Email](mailto:arjunnmanoj1995@gmail.com) 💌
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarjun&count_private=true&show_icons=true" alt="Arjun's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarjun&count_private=true&show_icons=true&theme=dark" alt="Arjun's github stats" />
 </a>
