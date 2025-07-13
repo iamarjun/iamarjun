@@ -2,8 +2,8 @@
 
 I am Arjun
 
-- Imperative by day.
-- Declarative by night.
+- Specialist by day.
+- Generalist by night.
 
 ### 📫 How to reach me?
 
